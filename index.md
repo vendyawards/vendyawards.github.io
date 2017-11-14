@@ -23,6 +23,6 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 3. Voting Page: During this period, users will pick their top five items out of the most voted items listed on the page. When the vote button is pressed, a confirmation will ask if they want to submit their vote. If they select yes, an alert will thank them for their vote and they will be redirected to the landing page. Otherwise, they will have a chance to change their votes if needed.
 
-4. Contest Winners Page: When the voting period is over, the top five voted items will be listed along with the date of when these items will be available in the UH vending machines, and the location of the vending machines.
+4. Contest Winners Page: When the voting period is over, the top five voted items will be listed along with the date of when these items will be available in the UH vending machines, and the location of the vending machines supporting the VendyAward products.
 
 
