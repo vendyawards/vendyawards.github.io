@@ -1,5 +1,6 @@
 # Table of contents
 
+* <a href="https://github.com/vendyawards/vendyawards">View on Github</a>
 * [About VendyAwards](#about-vendyawards)
 * [Homepage Mockups](#homepage-mockups)
 
