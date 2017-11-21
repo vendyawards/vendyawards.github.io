@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+title: Vendyawards
+description: SHHHHH
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
