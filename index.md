@@ -1,7 +1,4 @@
-<section id="downloads" class="clearfix">
-      
-      <a href="https://github.com/bowfolios/vendyawards" id="view-on-github" class="button"><span>View on GitHub</span></a>
-</section>
+<a class="github-button" href="https://github.com/vendyawards/vendyawards" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
 
 
 # Table of contents
