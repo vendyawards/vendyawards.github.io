@@ -2,7 +2,8 @@
 
 * <a href="https://github.com/vendyawards/vendyawards">View on Github</a>
 * [About VendyAwards](#about-vendyawards)
-* [Homepage Mockups](#homepage-mockups)
+* [Written Mockups](#written-mockups)
+* [Digital Mockups](#digital-mockups)
 
 # About VendyAwards 
 
@@ -14,7 +15,7 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 3. Contest winners. During this time, the site indicates what foods won, and publicize when and how the vendors will make those foods available.
 
-# Homepage Mockups
+# Written Mockups
 
 ![](images/vendy-awards-mockup.jpeg)
 
@@ -28,4 +29,4 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 5. Map Page: Lists all the vending machines and their locations that support the vendy award winning selections in a map format.
 
-
+# Digital Mockups
