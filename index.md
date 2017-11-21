@@ -1,12 +1,11 @@
 <section id="downloads" class="clearfix">
       
-      <a href="https://github.com/bowfolios/bowfolios" id="view-on-github" class="button"><span>View on GitHub</span></a>
+      <a href="https://github.com/bowfolios/vendyawards" id="view-on-github" class="button"><span>View on GitHub</span></a>
 </section>
 
 
 # Table of contents
 
-* <a href="https://github.com/vendyawards/vendyawards">View on Github</a>
 * [About VendyAwards](#about-vendyawards)
 * [Written Mockups](#written-mockups)
 * [Digital Mockups](#digital-mockups)
