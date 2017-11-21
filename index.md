@@ -36,3 +36,5 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 5. Map Page: Lists all the vending machines and their locations that support the vendy award winning selections in a map format.
 
 # Digital Mockups
+
+![](images/LandingPageMockup.jpeg)
