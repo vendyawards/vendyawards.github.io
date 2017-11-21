@@ -1,3 +1,4 @@
+VendyAwards
 # Table of contents
 
 * [About VendyAwards](#about-vendyawards)
