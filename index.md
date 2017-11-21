@@ -36,5 +36,3 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 ![](images/LandingPageMockup.jpeg)
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
