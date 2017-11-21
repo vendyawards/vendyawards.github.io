@@ -1,4 +1,12 @@
-<a class="github-button" href="https://github.com/vendyawards/vendyawards" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
+<a class="github-button" href="https://github.com/vendyawards/vendyawards" data-size="large" aria-label="Follow @ntkme on GitHub">View on Github</a>
+
+ <section id="downloads" class="clearfix">
+      {% if site.show_downloads %}
+      <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
+      <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
+      {% endif %}
+      <a href="https://github.com/bowfolios/bowfolios" id="view-on-github" class="button"><span>View on GitHub</span></a>
+    </section>
 
 
 # Table of contents
