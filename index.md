@@ -1,4 +1,3 @@
-VendyAwards
 # Table of contents
 
 * [About VendyAwards](#about-vendyawards)
@@ -32,5 +31,7 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 # Digital Mockups
 
-![](images/LandingPageMockup.jpeg)
+![](images/LandingPageMockup.png)
+
+![](images/NominationPageMockup.png)
 
