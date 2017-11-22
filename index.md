@@ -39,7 +39,7 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 ### <a href="http://vendyawards.meteorapp.com/">Landing Page</a>
 ![](images/LandingPageMockup.png)
 
-### <a href="http://vendyawards.meteorapp.com/cadamos/profile">Nomination Page</a>
+### Nomination Page
 ![](images/NominationPageMockup.png)
 
 ### Contest Winners Page (WIP)
