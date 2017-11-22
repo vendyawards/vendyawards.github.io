@@ -44,4 +44,5 @@ Contest Winners Page (WIP)
 ![](images/mockup-ContestWinnersPage-WIP.png)
 
 # Deployment to Galaxy
+<a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com">Running Deployment of Vendy Awards on Galaxy</a>
 ![](images/vendyawards-deployment.png)
