@@ -35,15 +35,15 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 # Digital Mockups
 
-<a href="http://vendyawards.meteorapp.com/">Landing Page</a>
+### <a href="http://vendyawards.meteorapp.com/">Landing Page</a>
 ![](images/LandingPageMockup.png)
 
-<a href="http://vendyawards.meteorapp.com/cadamos/profile">Nomination Page</a>
+### <a href="http://vendyawards.meteorapp.com/cadamos/profile">Nomination Page</a>
 ![](images/NominationPageMockup.png)
 
-Contest Winners Page (WIP)
+### Contest Winners Page (WIP)
 ![](images/mockup-ContestWinnersPage-WIP.png)
 
 # Deployment to Galaxy
-<a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com">Running Deployment of Vendy Awards on Galaxy</a>
+### <a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com">Running Deployment of Vendy Awards on Galaxy</a>
 ![](images/vendyawards-deployment.png)
