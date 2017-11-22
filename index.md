@@ -2,6 +2,7 @@
 
 * <a href ="https://github.com/vendyawards/vendyawards/projects/1">M1 Project Page</a>
 * <a href ="https://github.com/vendyawards/vendyawards/projects/2">M2 Project Page</a>
+* [Deployment to Galaxy] (#deployment-to-galaxy)
 * [About VendyAwards](#about-vendyawards)
 * [Written Mockups](#written-mockups)
 * [Digital Mockups](#digital-mockups)
@@ -42,3 +43,5 @@ Nomination Page
 Contest Winners Page (WIP)
 ![](images/mockup-ContestWinnersPage-WIP.png)
 
+# Deployment to Galaxy
+![](images/vendyawards-deployment.png)
