@@ -10,7 +10,7 @@
 * [Deployment to Galaxy](#deployment-to-galaxy)
 
 
-# About VendyAwards 
+## About VendyAwards 
 
 Vendy Awards is a Meteor application providing UH students with an opportunity to vote on which snacks get placed in campus vending machines. Every month will consist of:
 
@@ -20,7 +20,7 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 3. Contest winners. During this time, the site indicates what foods won, and publicize when and how the vendors will make those foods available.
 
-# Written Mockups
+## Written Mockups
 
 ![](images/vendy-awards-mockup.jpeg)
 
@@ -34,7 +34,7 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 5. Map Page: Lists all the vending machines and their locations that support the vendy award winning selections in a map format.
 
-# Digital Mockups
+## Digital Mockups
 
 ### <a href="http://vendyawards.meteorapp.com/">Landing Page</a>
 ![](images/LandingPageMockup.png)
@@ -45,6 +45,6 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 ### Contest Winners Page (WIP)
 ![](images/mockup-ContestWinnersPage-WIP.png)
 
-# Deployment to Galaxy
+## Deployment to Galaxy
 ### <a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com">Running Deployment of Vendy Awards on Galaxy</a>
 ![](images/vendyawards-deployment.png)
