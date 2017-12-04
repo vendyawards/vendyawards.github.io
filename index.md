@@ -2,12 +2,14 @@
 
 ## Table of contents
 
+* <a href="http://vendyawards.meteorapp.com/">Landing Page</a>
+* <a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com">Running Deployment of Vendy Awards on Galaxy</a>
 * <a href ="https://github.com/vendyawards/vendyawards/projects/1">M1 Project Page</a>
 * <a href ="https://github.com/vendyawards/vendyawards/projects/2">M2 Project Page</a>
 * [About VendyAwards](#about-vendyawards)
-* [Written Mockups](#written-mockups)
 * [Digital Mockups](#digital-mockups)
 * [Deployment to Galaxy](#deployment-to-galaxy)
+* [Written Mockups](#written-mockups)
 
 
 ## About VendyAwards 
@@ -19,6 +21,21 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 2. Voting period. During this time, students can vote for their top 5 foods. They can also try to get their friends to vote.
 
 3. Contest winners. During this time, the site indicates what foods won, and publicize when and how the vendors will make those foods available.
+
+## Digital Mockups
+
+### Landing Page
+![](images/LandingPageMockup.png)
+
+### Nomination Page
+![](images/NominationPageMockup.png)
+
+### Contest Winners Page (WIP)
+![](images/mockup-ContestWinnersPage-WIP.png)
+
+## Deployment to Galaxy
+### Running Deployment of Vendy Awards on Galaxy
+![](images/vendyawards-deployment.png)
 
 ## Written Mockups
 
@@ -33,18 +50,3 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 4. Contest Winners Page: When the voting period is over, the top five voted items will be listed along with the date of when these items will be available in the UH vending machines, and the location of the vending machines supporting the VendyAward products.
 
 5. Map Page: Lists all the vending machines and their locations that support the vendy award winning selections in a map format.
-
-## Digital Mockups
-
-### <a href="http://vendyawards.meteorapp.com/">Landing Page</a>
-![](images/LandingPageMockup.png)
-
-### Nomination Page
-![](images/NominationPageMockup.png)
-
-### Contest Winners Page (WIP)
-![](images/mockup-ContestWinnersPage-WIP.png)
-
-## Deployment to Galaxy
-### <a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com">Running Deployment of Vendy Awards on Galaxy</a>
-![](images/vendyawards-deployment.png)
