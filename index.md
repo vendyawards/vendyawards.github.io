@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-* <a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com/">## Veiw Vendy Awards App</a>
+## <a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com/">Veiw Vendy Awards App</a>
 * <a href ="https://github.com/vendyawards/vendyawards/projects/1">M1 Project Page</a>
 * <a href ="https://github.com/vendyawards/vendyawards/projects/2">M2 Project Page</a>
 * [About VendyAwards](#about-vendyawards)
