@@ -2,8 +2,7 @@
 
 ## Table of contents
 
-* <a href="http://vendyawards.meteorapp.com/">Landing Page</a>
-* <a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com">Running Deployment of Vendy Awards on Galaxy</a>
+* <a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com/">## Veiw Vendy Awards App</a>
 * <a href ="https://github.com/vendyawards/vendyawards/projects/1">M1 Project Page</a>
 * <a href ="https://github.com/vendyawards/vendyawards/projects/2">M2 Project Page</a>
 * [About VendyAwards](#about-vendyawards)
