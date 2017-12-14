@@ -8,6 +8,9 @@
 * [About VendyAwards](#about-vendyawards)
 * [Digital Mockups](#digital-mockups)
 * [Deployment to Galaxy](#deployment-to-galaxy)
+* [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
 * [Written Mockups](#written-mockups)
 
 
@@ -35,6 +38,12 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 ## Deployment to Galaxy
 ### Running Deployment of Vendy Awards on Galaxy
 ![](images/vendyawards-deployment.png)
+
+## User Guide
+
+## Community Feedback
+
+## Developer Guide
 
 ## Written Mockups
 
