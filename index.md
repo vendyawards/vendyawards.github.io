@@ -58,7 +58,7 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 4. Contest winners page: When on the contest winners page, the user can view the top five picks of the all the votes made during the voting process on order from most voted, to least voted. They are allowed to then go to the map page through a link provided at the bottom.
 
-** refer to * [Digital Mockups](#digital-mockups) to view images of what is expected of each page.
+** refer to [Digital Mockups](#digital-mockups) to view images of what is expected of each page.
 
 ## Community Feedback
 
