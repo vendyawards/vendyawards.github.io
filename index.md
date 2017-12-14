@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-## <a href="https://galaxy.meteor.com/app/vendyawards.meteorapp.com/">Go to deployed app</a>
+## <a href="https://vendyawards.meteorapp.com/">Go to deployed app</a>
 * <a href ="https://github.com/vendyawards/vendyawards/projects/1">M1 Project Page</a>
 * <a href ="https://github.com/vendyawards/vendyawards/projects/2">M2 Project Page</a>
 * [About VendyAwards](#about-vendyawards)
@@ -14,9 +14,10 @@
 * [Written Mockups](#written-mockups)
 
 
-## About VendyAwards (Overview)
+## About VendyAwards
+### Overview
 
-Vendy Awards is a Meteor application providing UH students with an opportunity to vote on which snacks get placed in campus vending machines. Every month will consist of:
+Vendy Awards is a Meteor application providing UH students with an opportunity to vote on which snacks get placed in campus vending machines. It gives every student an opportunity to voice out what they feel they would like to see and also give vendors an idea of what students like to eat, improving sales of their vending machine items. Every month will consist of:
 
 1. Nomination period. During this time, students and vendors can nominate foods for the vending machine. Admins can ensure that the nominations are appropriate and feasible. The vendors must indicate how easily they can make a food item available.
 
@@ -29,13 +30,19 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 ## Digital Mockups
 
 ### Landing Page
-![](images/LandingPageMockup.png)
+![](images/TODO)
 
 ### Nomination Page
-![](images/NominationPageMockup.png)
+![](images/TODO)
 
-### Contest Winners Page (WIP)
-![](images/mockup-ContestWinnersPage-WIP.png)
+### Voting Page
+![](images/TODO)
+
+### Contest Winners Page
+![](images/TODO)
+
+### Map Page
+![](images/TODO)
 
 ## Deployment to Galaxy
 ### Running Deployment of Vendy Awards on Galaxy
@@ -51,11 +58,19 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 4. Contest winners page: When on the contest winners page, the user can view the top five picks of the all the votes made during the voting process on order from most voted, to least voted. They are allowed to then go to the map page through a link provided at the bottom.
 
+** refer to * [Digital Mockups](#digital-mockups) to view images of what is expected of each page.
+
 ## Community Feedback
+
+1. NAME: "WHAT THEY SAID"
+2. NAME: "WHAT THEY SAID"
+3. NAME: "WHAT THEY SAID"
+4. NAME: "WHAT THEY SAID"
+5. NAME: "WHAT THEY SAID"
 
 ## Developer Guide
 
-# Installation
+### Installation
 
 First, [install Meteor](https://www.meteor.com/install).
 
