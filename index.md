@@ -30,19 +30,19 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 ## Digital Mockups
 
 ### Landing Page
-![](images/TODO)
+![](images/landing.png)
 
 ### Nomination Page
-![](images/TODO)
+![](images/nominations.png)
 
 ### Voting Page
-![](images/TODO)
+![](images/voting.png)
 
 ### Contest Winners Page
-![](images/TODO)
+![](images/ContestWinners.png)
 
 ### Map Page
-![](images/TODO)
+![](images/Map.png)
 
 ## Deployment to Galaxy
 ### Running Deployment of Vendy Awards on Galaxy
@@ -62,11 +62,11 @@ Vendy Awards is a Meteor application providing UH students with an opportunity t
 
 ## Community Feedback
 
-1. NAME: "WHAT THEY SAID"
-2. NAME: "WHAT THEY SAID"
-3. NAME: "WHAT THEY SAID"
-4. NAME: "WHAT THEY SAID"
-5. NAME: "WHAT THEY SAID"
+1. Mickey M.: "Not a fan of violet, but good concept. Although, sometimes I can't log out."
+2. Chris L. : "Really liked the color gradient, but functionality can improve."
+3. Taylor C.: "I love hi chews, I like the fact that can suggest them for vending machines."
+4. Harold G.: "I hope to one day see non food items in the vending machines on campus. Thank you for introducing this idea to me."
+5. Heather P.: "I don't like how the fonts are not uniform, however, the landing page and map pages are really appealing. The nomination page is very straight forward. I like how the voting page highlights what you've voted for."
 
 ## Developer Guide
 
