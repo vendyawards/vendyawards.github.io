@@ -334,4 +334,5 @@ The development process for VendyAwards conformed to [Issue Driven Project Manag
 ## Native Mobile App
 
 ![](images/VendyAwardsXC.png)
+<br>
 Extra credit submission of our mobile app.
